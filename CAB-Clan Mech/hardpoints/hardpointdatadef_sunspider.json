@@ -1,0 +1,153 @@
+{
+    "ID" : "hardpointdatadef_sunspider",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [ 
+			[
+			"chrprfweap_sunspider_leftarm_ac10_bh1",			
+			"chrprfweap_sunspider_leftarm_ppc_eh1",
+			"chrprfweap_sunspider_leftarm_laser_eh1",
+			"chrprfweap_sunspider_leftarm_flamer_eh1",
+			"chrprfweap_sunspider_leftarm_gauss_bh1",
+			"chrprfweap_sunspider_leftarm_mg_bh1",
+			"chrprfweap_sunspider_leftarm_srm4_mh1",
+			"chrprfweap_sunspider_leftarm_srm6_mh1",
+			"chrprfweap_sunspider_leftarm_srm20_mh1",
+			"chrprfweap_sunspider_leftarm_lrm15_mh1"
+			],
+			[
+			"chrprfweap_sunspider_leftarm_ppc_eh2",
+			"chrprfweap_sunspider_leftarm_laser_eh2",			
+			"chrprfweap_sunspider_leftarm_flamer_eh2",
+			"chrprfweap_sunspider_leftarm_srm4_mh2",	
+			"chrprfweap_sunspider_leftarm_srm6_mh2",
+			"chrprfweap_sunspider_leftarm_srm20_mh2",
+			"chrprfweap_sunspider_leftarm_lrm15_mh2"			
+			]			
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_sunspider_lefttorso_laser_eh1",
+			"chrprfweap_sunspider_lefttorso_flamer_eh1",				
+			"chrprfweap_sunspider_lefttorso_ac10_bh1",
+			"chrprfweap_sunspider_lefttorso_mg_bh1",
+			"chrprfweap_sunspider_lefttorso_srm4_mh1",	
+			"chrprfweap_sunspider_lefttorso_srm6_mh1",	
+			"chrprfweap_sunspider_lefttorso_lrm15_mh1",	
+			"chrprfweap_sunspider_lefttorso_srm20_mh1"
+			],
+			[
+			"chrprfweap_sunspider_lefttorso_ac10_bh2",
+			"chrprfweap_sunspider_lefttorso_ppc_eh2",
+			"chrprfweap_sunspider_lefttorso_laser_eh2"	
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_sunspider_rightarm_ac10_bh1",
+			"chrprfweap_sunspider_rightarm_ppc_eh1",
+			"chrprfweap_sunspider_rightarm_laser_eh1",
+			"chrprfweap_sunspider_rightarm_flamer_eh1",
+			"chrprfweap_sunspider_rightarm_gauss_bh1",
+			"chrprfweap_sunspider_rightarm_mg_bh1",
+			"chrprfweap_sunspider_rightarm_srm4_mh1",
+			"chrprfweap_sunspider_rightarm_srm6_mh1",
+			"chrprfweap_sunspider_rightarm_srm20_mh1",
+			"chrprfweap_sunspider_rightarm_lrm15_mh1"
+			],
+			[
+			"chrprfweap_sunspider_rightarm_ppc_eh2",
+			"chrprfweap_sunspider_rightarm_laser_eh2",			
+			"chrprfweap_sunspider_rightarm_flamer_eh2",
+			"chrprfweap_sunspider_rightarm_srm4_mh2",	
+			"chrprfweap_sunspider_rightarm_srm6_mh2",
+			"chrprfweap_sunspider_rightarm_srm20_mh2",
+			"chrprfweap_sunspider_rightarm_lrm15_mh2"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_sunspider_righttorso_ac10_bh1",
+			"chrprfweap_sunspider_righttorso_srm4_mh1",	
+			"chrprfweap_sunspider_righttorso_srm6_mh1",	
+			"chrprfweap_sunspider_righttorso_lrm15_mh1",	
+			"chrprfweap_sunspider_righttorso_srm20_mh1"
+			],
+			[
+			"chrprfweap_sunspider_righttorso_ac10_bh2",
+			"chrprfweap_sunspider_righttorso_mg_bh2"			
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrprfweap_sunspider_head_mg_bh1",
+			"chrprfweap_sunspider_head_laser_eh1",
+			"chrprfweap_sunspider_head_srm6_mh1"			
+			]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_sunspider_centertorso_laser_eh1",
+			"chrprfweap_sunspider_centertorso_mg_bh1",
+			"chrprfweap_sunspider_centertorso_srm6_mh1",
+			"chrprfweap_sunspider_centertorso_ac20_bh1",
+			"chrprfweap_sunspider_centertorso_flamer_eh1",
+			"chrprfweap_sunspider_centertorso_lrm10_mh1"			
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

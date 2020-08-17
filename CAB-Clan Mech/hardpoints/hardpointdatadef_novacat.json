@@ -1,0 +1,120 @@
+{
+    "ID" : "hardpointdatadef_novacat",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_novacat_leftarm_flamer_eh1",
+					"chrPrfWeap_novacat_leftarm_laser_eh1",
+					"chrPrfWeap_novacat_leftarm_ppc_eh1",
+				    "chrPrfWeap_novacat_leftarm_srm6_mh1",
+					"chrPrfWeap_novacat_leftarm_lrm10_mh1",
+					"chrPrfWeap_novacat_leftarm_ac20_bh1",
+					"chrPrfWeap_novacat_leftarm_gauss_bh1",
+					"chrPrfWeap_novacat_leftarm_mg_bh1",
+					"chrPrfWeap_novacat_leftarm_lrm20_mh1"
+					
+				],
+                [
+                    "chrPrfWeap_novacat_leftarm_flamer_eh2",
+                    "chrPrfWeap_novacat_leftarm_laser_eh2",
+                    "chrPrfWeap_novacat_leftarm_ppc_eh2",
+					"chrPrfWeap_novacat_leftarm_srm6_mh2",
+					"chrPrfWeap_novacat_leftarm_lrm10_mh2",
+					"chrPrfWeap_novacat_leftarm_lrm20_mh2"
+                ],
+				[
+                    "chrPrfWeap_novacat_leftarm_flamer_eh3",
+                    "chrPrfWeap_novacat_leftarm_laser_eh3",
+                    "chrPrfWeap_novacat_leftarm_ppc_eh3",
+					"chrPrfWeap_novacat_leftarm_srm6_mh3",
+					"chrPrfWeap_novacat_leftarm_lrm10_mh3",
+					"chrPrfWeap_novacat_leftarm_lrm20_mh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_novacat_lefttorso_flamer_eh1",
+                    "chrPrfWeap_novacat_lefttorso_laser_eh1",
+                    "chrPrfWeap_novacat_lefttorso_ppc_eh1"
+                ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_novacat_rightarm_flamer_eh1",
+					"chrPrfWeap_novacat_rightarm_laser_eh1",
+					"chrPrfWeap_novacat_rightarm_ppc_eh1",
+				    "chrPrfWeap_novacat_rightarm_srm6_mh1",
+					"chrPrfWeap_novacat_rightarm_lrm10_mh1",
+					"chrPrfWeap_novacat_rightarm_ac20_bh1",
+					"chrPrfWeap_novacat_rightarm_gauss_bh1",
+					"chrPrfWeap_novacat_rightarm_mg_bh1",
+					"chrPrfWeap_novacat_rightarm_lrm20_mh1"
+                ],
+                [
+                    "chrPrfWeap_novacat_rightarm_flamer_eh2",
+					"chrPrfWeap_novacat_rightarm_laser_eh2",
+					"chrPrfWeap_novacat_rightarm_ppc_eh2",
+				    "chrPrfWeap_novacat_rightarm_srm6_mh2",
+					"chrPrfWeap_novacat_rightarm_lrm10_mh2",
+					"chrPrfWeap_novacat_rightarm_ac10_bh2",
+					"chrPrfWeap_novacat_rightarm_ac5_bh2",
+					"chrPrfWeap_novacat_rightarm_mg_bh2",
+					"chrPrfWeap_novacat_rightarm_lrm20_mh2"
+                ],
+				[
+                    "chrPrfWeap_novacat_rightarm_flamer_eh3",
+					"chrPrfWeap_novacat_rightarm_laser_eh3",
+					"chrPrfWeap_novacat_rightarm_ppc_eh3",
+				    "chrPrfWeap_novacat_rightarm_srm6_mh3",
+					"chrPrfWeap_novacat_rightarm_lrm10_mh3",
+					"chrPrfWeap_novacat_rightarm_ac2_bh3",
+					"chrPrfWeap_novacat_rightarm_ac5_bh3",
+					"chrPrfWeap_novacat_rightarm_mg_bh3",
+					"chrPrfWeap_novacat_rightarm_lrm20_mh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_novacat_righttorso_flamer_eh1",
+                    "chrPrfWeap_novacat_righttorso_laser_eh1",
+                    "chrPrfWeap_novacat_righttorso_ppc_eh1"
+                ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

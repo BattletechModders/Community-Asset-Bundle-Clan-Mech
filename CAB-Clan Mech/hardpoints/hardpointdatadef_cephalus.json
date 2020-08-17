@@ -1,0 +1,133 @@
+{
+    "ID" : "hardpointdatadef_cephalus",
+    "HardpointData" : [
+		{
+            "location" : "centertorso",
+            "weapons" : [
+                [
+					"chrprfweap_cephalus_centertorso_flamer_eh1",
+					"chrprfweap_cephalus_centertorso_laser_eh1",
+					"chrprfweap_cephalus_centertorso_mg_bh1",
+					"chrprfweap_cephalus_centertorso_srm6_mh1"
+                ]
+            ],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+			
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+					"chrprfweap_cephalus_leftarm_ac5_bh1",
+					"chrprfweap_cephalus_leftarm_gauss_bh1",
+					"chrprfweap_cephalus_leftarm_laser_eh1",
+					"chrprfweap_cephalus_leftarm_mg_bh1",
+					"chrprfweap_cephalus_leftarm_ppc_eh1",
+					"chrprfweap_cephalus_leftarm_srm6_mh1"
+                ]
+				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_cephalus_lefttorso_ac5_bh1",
+					"chrprfweap_cephalus_lefttorso_ams_ah1",
+					"chrprfweap_cephalus_lefttorso_flamer_eh1",
+					"chrprfweap_cephalus_lefttorso_gauss_bh1",
+					"chrprfweap_cephalus_lefttorso_laser_eh1",
+					"chrprfweap_cephalus_lefttorso_mg_bh1",
+					"chrprfweap_cephalus_lefttorso_ppc_eh1",
+					"chrprfweap_cephalus_lefttorso_srm6_mh1"
+                ],
+                [
+					"chrprfweap_cephalus_lefttorso_ac5_bh2",
+					"chrprfweap_cephalus_lefttorso_flamer_eh2",
+					"chrprfweap_cephalus_lefttorso_laser_eh2",
+					"chrprfweap_cephalus_lefttorso_mg_bh2",
+					"chrprfweap_cephalus_lefttorso_ppc_eh2",
+					"chrprfweap_cephalus_lefttorso_srm6_mh2"
+                ],
+				[
+					"chrprfweap_cephalus_lefttorso_flamer_eh3",
+					"chrprfweap_cephalus_lefttorso_laser_eh3",
+					"chrprfweap_cephalus_lefttorso_mg_bh3",
+					"chrprfweap_cephalus_lefttorso_ppc_eh3",
+					"chrprfweap_cephalus_lefttorso_srm6_mh3"
+                ]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+					"chrprfweap_cephalus_rightarm_ac5_bh1",
+					"chrprfweap_cephalus_rightarm_gauss_bh1",
+					"chrprfweap_cephalus_rightarm_laser_eh1",
+					"chrprfweap_cephalus_rightarm_mg_bh1",
+					"chrprfweap_cephalus_rightarm_ppc_eh1",
+					"chrprfweap_cephalus_rightarm_srm6_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+					"chrprfweap_cephalus_righttorso_ac5_bh1",
+					"chrprfweap_cephalus_righttorso_ams_ah1",
+					"chrprfweap_cephalus_righttorso_flamer_eh1",
+					"chrprfweap_cephalus_righttorso_gauss_bh1",
+					"chrprfweap_cephalus_righttorso_laser_eh1",
+					"chrprfweap_cephalus_righttorso_mg_bh1",
+					"chrprfweap_cephalus_righttorso_ppc_eh1",
+					"chrprfweap_cephalus_righttorso_srm6_mh1"
+                ],
+                [
+					"chrprfweap_cephalus_righttorso_ac5_bh2",
+					"chrprfweap_cephalus_righttorso_flamer_eh2",
+					"chrprfweap_cephalus_righttorso_laser_eh2",
+					"chrprfweap_cephalus_righttorso_mg_bh2",
+					"chrprfweap_cephalus_righttorso_ppc_eh2",
+					"chrprfweap_cephalus_righttorso_srm6_mh2"
+                ],
+				[
+					"chrprfweap_cephalus_righttorso_flamer_eh3",
+					"chrprfweap_cephalus_righttorso_laser_eh3",
+					"chrprfweap_cephalus_righttorso_mg_bh3",
+					"chrprfweap_cephalus_righttorso_ppc_eh3",
+					"chrprfweap_cephalus_righttorso_srm6_mh3"
+                ]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

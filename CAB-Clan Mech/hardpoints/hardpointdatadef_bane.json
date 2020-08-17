@@ -1,0 +1,179 @@
+{
+    "ID" : "hardpointdatadef_bane",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_bane_leftarm_laser_eh1"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_flamer_eh1"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_mg_bh1"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_ac2_bh1",			
+			"chrPrfWeap_bane_leftarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_ac2_bh2",			
+			"chrPrfWeap_bane_leftarm_ppc_eh2"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_ac2_bh3"
+			],	
+			[
+			"chrPrfWeap_bane_leftarm_ac2_bh4"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_ac20_bh1",
+			"chrPrfWeap_bane_leftarm_gauss_bh1",
+			"chrPrfWeap_bane_leftarm_ac2_bh5"			
+			],
+			[
+			"chrPrfWeap_bane_leftarm_srm6_mh1"
+			],
+			[
+			"chrPrfWeap_bane_leftarm_lrm15_mh1"
+			]			
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_bane_lefttorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_laser_eh2"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_laser_eh3"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_lrm15_mh1",
+			"chrPrfWeap_bane_lefttorso_srm6_mh1"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_gauss_bh1",
+			"chrPrfWeap_bane_lefttorso_ac20_bh1"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_bane_lefttorso_flamer_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_bane_rightarm_laser_eh1"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_flamer_eh1"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_mg_bh1"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_ac2_bh1",			
+			"chrPrfWeap_bane_rightarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_ac2_bh2",			
+			"chrPrfWeap_bane_rightarm_ppc_eh2"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_ac2_bh3"
+			],	
+			[
+			"chrPrfWeap_bane_rightarm_ac2_bh4"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_ac20_bh1",
+			"chrPrfWeap_bane_rightarm_gauss_bh1",
+			"chrPrfWeap_bane_rightarm_ac2_bh5"			
+			],
+			[
+			"chrPrfWeap_bane_rightarm_srm6_mh1"
+			],
+			[
+			"chrPrfWeap_bane_rightarm_lrm15_mh1"
+			]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_bane_righttorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_laser_eh2"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_laser_eh3"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_lrm15_mh1",
+			"chrPrfWeap_bane_righttorso_srm6_mh1"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_gauss_bh1",
+			"chrPrfWeap_bane_righttorso_ac20_bh1"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_bane_righttorso_flamer_eh1"
+			]
+			],			
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_bane_head_srm4_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

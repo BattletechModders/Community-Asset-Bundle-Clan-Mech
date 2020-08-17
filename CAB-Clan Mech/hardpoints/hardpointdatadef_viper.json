@@ -1,0 +1,165 @@
+{
+    "ID" : "hardpointdatadef_viper",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_viper_head_flamer_eh1",
+					"chrPrfWeap_viper_head_laser_eh1",
+					"chrPrfWeap_viper_head_mg_bh1",
+					"chrPrfWeap_viper_head_lrm10_mh1",
+					"chrPrfWeap_viper_head_srm6_mh1"				
+				]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		 {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_viper_centertorso_flamer_eh1",
+					"chrPrfWeap_viper_centertorso_laser_eh1",
+					"chrPrfWeap_viper_centertorso_mg_bh1",
+					"chrPrfWeap_viper_centertorso_gauss_bh1",
+					"chrPrfWeap_viper_centertorso_lrm10_mh1",
+					"chrPrfWeap_viper_centertorso_srm6_mh1",
+					"chrPrfWeap_viper_centertorso_ppc_eh1",
+					"chrPrfWeap_viper_centertorso_ac20_bh1"					
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_viper_leftarm_flamer_eh1",
+					"chrPrfWeap_viper_leftarm_laser_eh1",
+					"chrPrfWeap_viper_leftarm_ppc_eh1",
+					"chrPrfWeap_viper_leftarm_srm6_mh1",
+					"chrPrfWeap_viper_leftarm_lrm10_mh1",
+					"chrPrfWeap_viper_leftarm_lrm5_mh1",
+					"chrPrfWeap_viper_leftarm_ac20_bh1",
+					"chrPrfWeap_viper_leftarm_mg_bh1",
+					"chrPrfWeap_viper_leftarm_gauss_bh1"				
+				],
+				[
+                    "chrPrfWeap_viper_leftarm_flamer_eh2",
+					"chrPrfWeap_viper_leftarm_laser_eh2",
+					"chrPrfWeap_viper_leftarm_ppc_eh2"					
+				],
+				[
+                    "chrPrfWeap_viper_leftarm_flamer_eh3",
+					"chrPrfWeap_viper_leftarm_laser_eh3",
+					"chrPrfWeap_viper_leftarm_ppc_eh3"				
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_viper_lefttorso_flamer_eh1",
+					"chrPrfWeap_viper_lefttorso_laser_eh1",
+					"chrPrfWeap_viper_lefttorso_ppc_eh1",
+					"chrPrfWeap_viper_lefttorso_srm6_mh1",
+					"chrPrfWeap_viper_lefttorso_lrm10_mh1",
+					"chrPrfWeap_viper_lefttorso_lrm15_mh1",
+					"chrPrfWeap_viper_lefttorso_ac10_bh1",
+					"chrPrfWeap_viper_lefttorso_ac5_bh1",
+					"chrPrfWeap_viper_lefttorso_mg_bh1"
+				],
+				[
+                    "chrPrfWeap_viper_lefttorso_flamer_eh2",
+					"chrPrfWeap_viper_lefttorso_laser_eh2",
+					"chrPrfWeap_viper_lefttorso_ppc_eh2",
+					"chrPrfWeap_viper_lefttorso_ac2_bh2",
+					"chrPrfWeap_viper_lefttorso_mg_bh2"
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_viper_rightarm_flamer_eh1",
+					"chrPrfWeap_viper_rightarm_laser_eh1",
+					"chrPrfWeap_viper_rightarm_ppc_eh1",
+					"chrPrfWeap_viper_rightarm_ac20_bh1",
+					"chrPrfWeap_viper_rightarm_srm6_mh1",
+					"chrPrfWeap_viper_rightarm_mg_bh1",
+					"chrPrfWeap_viper_rightarm_gauss_bh1"					
+                ],
+				[
+                    "chrPrfWeap_viper_rightarm_flamer_eh2",
+					"chrPrfWeap_viper_rightarm_laser_eh2",
+					"chrPrfWeap_viper_rightarm_ppc_eh2"				    
+                ],
+				[
+                    "chrPrfWeap_viper_rightarm_flamer_eh3",
+					"chrPrfWeap_viper_rightarm_laser_eh3",
+					"chrPrfWeap_viper_rightarm_ppc_eh3"				    
+                ]
+
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+				[
+                    "chrPrfWeap_viper_righttorso_flamer_eh1",
+					"chrPrfWeap_viper_righttorso_laser_eh1",
+					"chrPrfWeap_viper_righttorso_ppc_eh1",
+					"chrPrfWeap_viper_righttorso_srm6_mh1",
+					"chrPrfWeap_viper_righttorso_lrm10_mh1",
+					"chrPrfWeap_viper_righttorso_lrm15_mh1",
+					"chrPrfWeap_viper_righttorso_ac10_bh1",
+					"chrPrfWeap_viper_righttorso_ac5_bh1",
+					"chrPrfWeap_viper_righttorso_mg_bh1"
+				],
+				[
+                    "chrPrfWeap_viper_righttorso_flamer_eh2",
+					"chrPrfWeap_viper_righttorso_laser_eh2",
+					"chrPrfWeap_viper_righttorso_ppc_eh2",
+					"chrPrfWeap_viper_righttorso_ac2_bh2",
+					"chrPrfWeap_viper_righttorso_mg_bh2"
+				]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

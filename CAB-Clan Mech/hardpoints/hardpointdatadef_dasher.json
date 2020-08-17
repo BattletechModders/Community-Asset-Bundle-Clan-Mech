@@ -1,0 +1,136 @@
+{
+    "ID" : "hardpointdatadef_dasher",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_dasher_leftarm_laser_eh1",
+			"chrPrfWeap_dasher_leftarm_flamer_eh1",
+			"chrPrfWeap_dasher_leftarm_ppc_eh1",
+			"chrPrfWeap_dasher_leftarm_ac10_bh1",
+			"chrPrfWeap_dasher_leftarm_srm4_mh1",
+			"chrPrfWeap_dasher_leftarm_lrm10_mh1"
+			],
+			[
+			"chrPrfWeap_dasher_leftarm_laser_eh2",
+			"chrPrfWeap_dasher_leftarm_flamer_eh2",
+			"chrPrfWeap_dasher_leftarm_ppc_eh2",
+			"chrPrfWeap_dasher_leftarm_mg_bh2",
+			"chrPrfWeap_dasher_leftarm_srm4_mh2",
+			"chrPrfWeap_dasher_leftarm_lrm10_mh2"			
+			]			
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_dasher_lefttorso_laser_eh1",
+			"chrPrfWeap_dasher_lefttorso_mg_bh1",
+			"chrPrfWeap_dasher_lefttorso_srm6_mh1",
+			"chrPrfWeap_dasher_lefttorso_ac10_bh1",
+			"chrPrfWeap_dasher_lefttorso_flamer_eh1",
+			"chrPrfWeap_dasher_lefttorso_lrm10_mh1"			
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_dasher_rightarm_laser_eh1",
+			"chrPrfWeap_dasher_rightarm_flamer_eh1",
+			"chrPrfWeap_dasher_rightarm_ppc_eh1",
+			"chrPrfWeap_dasher_rightarm_ac10_bh1",
+			"chrPrfWeap_dasher_rightarm_srm6_mh1",
+			"chrPrfWeap_dasher_rightarm_lrm10_mh1"
+			],
+			[
+			"chrPrfWeap_dasher_rightarm_laser_eh2",
+			"chrPrfWeap_dasher_rightarm_flamer_eh2",
+			"chrPrfWeap_dasher_rightarm_ppc_eh2",
+			"chrPrfWeap_dasher_rightarm_mg_bh2",
+			"chrPrfWeap_dasher_rightarm_srm6_mh2",
+			"chrPrfWeap_dasher_rightarm_lrm10_mh2"			
+			],
+			[
+			"chrPrfWeap_dasher_rightarm_mg_bh3"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_dasher_righttorso_laser_eh1",
+			"chrPrfWeap_dasher_righttorso_flamer_eh1",
+			"chrPrfWeap_dasher_righttorso_ppc_eh1",
+			"chrPrfWeap_dasher_righttorso_mg_bh1",
+			"chrPrfWeap_dasher_righttorso_srm6_mh1",
+			"chrPrfWeap_dasher_righttorso_ac10_bh1"			
+			],
+			[
+			"chrPrfWeap_dasher_righttorso_laser_eh2",
+			"chrPrfWeap_dasher_righttorso_flamer_eh2"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_dasher_head_laser_eh1",
+			"chrPrfWeap_dasher_head_mg_bh1"		
+			]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_dasher_centertorso_mg_bh1",
+			"chrPrfWeap_dasher_centertorso_laser_eh1",
+			"chrPrfWeap_dasher_centertorso_srm6_mh1"		
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

@@ -1,0 +1,124 @@
+{
+    "ID" : "hardpointdatadef_hunchbackiic",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hunchbackiic_leftarm_flamer_eh1",
+                    "chrPrfWeap_hunchbackiic_leftarm_laser_eh1",
+                    "chrPrfWeap_hunchbackiic_leftarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_hunchbackiic_leftarm_flamer_eh2",
+                    "chrPrfWeap_hunchbackiic_leftarm_laser_eh2",
+                    "chrPrfWeap_hunchbackiic_leftarm_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+					"chrprfweap_hunchbackiic_lefttorso_gauss_bh1",
+					"chrprfweap_hunchbackiic_lefttorso_ac20_bh1",
+                    "chrprfweap_hunchbackiic_lefttorso_laser_eh1",
+					"chrprfweap_hunchbackiic_lefttorso_lrm20_mh1",
+                    "chrprfweap_hunchbackiic_lefttorso_srm6_mh1",
+					"chrprfweap_hunchbackiic_lefttorso_ppc_eh1",
+					"chrprfweap_hunchbackiic_lefttorso_uac5_bh1"
+                ],
+				[
+                    "chrprfweap_hunchbackiic_lefttorso_laser_eh2",
+                    "chrprfweap_hunchbackiic_lefttorso_lrm20_mh2",
+                    "chrprfweap_hunchbackiic_lefttorso_srm6_mh2",
+                    "chrprfweap_hunchbackiic_lefttorso_ppc_eh2",
+                    "chrprfweap_hunchbackiic_lefttorso_uac5_bh2"
+				],
+				[
+                    "chrprfweap_hunchbackiic_lefttorso_laser_eh3"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+					"chrprfweap_hunchbackiic_centertorso_laser_eh1"
+                ],
+                [
+					"chrprfweap_hunchbackiic_centertorso_laser_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_hunchbackiic_rightarm_flamer_eh1",
+                    "chrPrfWeap_hunchbackiic_rightarm_laser_eh1",
+                    "chrPrfWeap_hunchbackiic_rightarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_hunchbackiic_rightarm_flamer_eh2",
+                    "chrPrfWeap_hunchbackiic_rightarm_laser_eh2",
+                    "chrPrfWeap_hunchbackiic_rightarm_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+				[
+					"chrprfweap_hunchbackiic_righttorso_ac20_bh1",
+					"chrprfweap_hunchbackiic_righttorso_gauss_bh1",
+                    "chrprfweap_hunchbackiic_righttorso_laser_eh1",
+                    "chrprfweap_hunchbackiic_righttorso_lrm20_mh1",
+                    "chrprfweap_hunchbackiic_righttorso_srm6_mh1",
+                    "chrprfweap_hunchbackiic_righttorso_ppc_eh1",
+					"chrprfweap_hunchbackiic_righttorso_uac5_bh1"
+                ],
+				[
+					"chrprfweap_hunchbackiic_righttorso_laser_eh2",
+                    "chrprfweap_hunchbackiic_righttorso_lrm20_mh2",
+                    "chrprfweap_hunchbackiic_righttorso_srm6_mh2",
+					"chrprfweap_hunchbackiic_righttorso_ppc_eh2",
+					"chrprfweap_hunchbackiic_righttorso_uac5_bh2"
+                ],
+				[
+                    "chrprfweap_hunchbackiic_righttorso_laser_eh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

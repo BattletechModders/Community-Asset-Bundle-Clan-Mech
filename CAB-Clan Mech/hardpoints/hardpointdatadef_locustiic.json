@@ -1,0 +1,79 @@
+{
+    "ID" : "hardpointdatadef_locustiic",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_locustiic_leftarm_laser_eh1",
+			"chrPrfWeap_locustiic_leftarm_ppc_eh1",
+			"chrPrfWeap_locustiic_leftarm_flamer_eh1",
+			"chrPrfWeap_locustiic_leftarm_mg_bh1",
+			"chrPrfWeap_locustiic_leftarm_ac2_bh1",
+			"chrPrfWeap_locustiic_leftarm_srm6_mh1",
+			"chrPrfWeap_locustiic_leftarm_gauss_bh1",
+			"chrPrfWeap_locustiic_leftarm_lrm10_mh1"			
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [		
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_locustiic_rightarm_laser_eh1",
+			"chrPrfWeap_locustiic_rightarm_ppc_eh1",
+			"chrPrfWeap_locustiic_rightarm_flamer_eh1",
+			"chrPrfWeap_locustiic_rightarm_mg_bh1",
+			"chrPrfWeap_locustiic_rightarm_ac2_bh1",
+			"chrPrfWeap_locustiic_rightarm_srm6_mh1",
+			"chrPrfWeap_locustiic_rightarm_gauss_bh1",
+			"chrPrfWeap_locustiic_rightarm_lrm10_mh1"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },	
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_locustiic_centertorso_laser_eh1",
+			"chrPrfWeap_locustiic_centertorso_ppc_eh1",
+			"chrPrfWeap_locustiic_centertorso_flamer_eh1",
+			"chrPrfWeap_locustiic_centertorso_mg_bh1",
+			"chrPrfWeap_locustiic_centertorso_ac2_bh1",
+			"chrPrfWeap_locustiic_centertorso_srm6_mh1",
+			"chrPrfWeap_locustiic_centertorso_gauss_bh1",
+			"chrPrfWeap_locustiic_centertorso_lrm10_mh1"			
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+             
+            ]
+        }
+    ]
+}

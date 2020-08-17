@@ -1,0 +1,147 @@
+{
+    "ID" : "hardpointdatadef_piranha",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_piranha_leftarm_laser_eh1",
+			"chrPrfWeap_piranha_leftarm_flamer_eh1",
+			"chrPrfWeap_piranha_leftarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_piranha_leftarm_laser_eh2",
+			"chrPrfWeap_piranha_leftarm_flamer_eh2",
+			"chrPrfWeap_piranha_leftarm_ppc_eh2"
+			]			
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_piranha_lefttorso_ac20_bh1",
+			"chrPrfWeap_piranha_lefttorso_gauss_bh1",
+			"chrPrfWeap_piranha_lefttorso_ppc_eh1",
+			"chrPrfWeap_piranha_lefttorso_flamer_eh1",
+			"chrPrfWeap_piranha_lefttorso_laser_eh1",
+			"chrPrfWeap_piranha_lefttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_piranha_lefttorso_flamer_eh2",
+			"chrPrfWeap_piranha_lefttorso_laser_eh2",
+			"chrPrfWeap_piranha_lefttorso_mg_bh2"
+			],
+			[
+			"chrPrfWeap_piranha_lefttorso_laser_eh3",
+			"chrPrfWeap_piranha_lefttorso_mg_bh3"
+			],
+			[
+			"chrPrfWeap_piranha_lefttorso_laser_eh4",
+			"chrPrfWeap_piranha_lefttorso_mg_bh4"
+			],
+			[
+			"chrPrfWeap_piranha_lefttorso_laser_eh5",
+			"chrPrfWeap_piranha_lefttorso_mg_bh5"
+			],
+			[
+			"chrPrfWeap_piranha_lefttorso_laser_eh6",
+			"chrPrfWeap_piranha_lefttorso_mg_bh6"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_piranha_rightarm_laser_eh1",
+			"chrPrfWeap_piranha_rightarm_flamer_eh1",
+			"chrPrfWeap_piranha_rightarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_piranha_rightarm_laser_eh2",
+			"chrPrfWeap_piranha_rightarm_flamer_eh2"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_piranha_righttorso_ac20_bh1",
+			"chrPrfWeap_piranha_righttorso_gauss_bh1",
+			"chrPrfWeap_piranha_righttorso_ppc_eh1",
+			"chrPrfWeap_piranha_righttorso_flamer_eh1",
+			"chrPrfWeap_piranha_righttorso_laser_eh1",
+			"chrPrfWeap_piranha_righttorso_mg_bh1"
+			],
+			[
+			"chrPrfWeap_piranha_righttorso_flamer_eh2",
+			"chrPrfWeap_piranha_righttorso_laser_eh2",
+			"chrPrfWeap_piranha_righttorso_mg_bh2"
+			],
+			[
+			"chrPrfWeap_piranha_righttorso_laser_eh3",
+			"chrPrfWeap_piranha_righttorso_mg_bh3"
+			],
+			[
+			"chrPrfWeap_piranha_righttorso_laser_eh4",
+			"chrPrfWeap_piranha_righttorso_mg_bh4"
+			],
+			[
+			"chrPrfWeap_piranha_righttorso_laser_eh5",
+			"chrPrfWeap_piranha_righttorso_mg_bh5"
+			],
+			[
+			"chrPrfWeap_piranha_righttorso_laser_eh6",
+			"chrPrfWeap_piranha_righttorso_mg_bh6"
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },	
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_piranha_centertorso_ppc_eh1",
+			"chrPrfWeap_piranha_centertorso_flamer_eh1",
+			"chrPrfWeap_piranha_centertorso_laser_eh1"
+			],
+			[
+			"chrPrfWeap_piranha_centertorso_flamer_eh2",
+			"chrPrfWeap_piranha_centertorso_laser_eh2"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

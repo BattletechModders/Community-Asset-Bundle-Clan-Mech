@@ -1,0 +1,142 @@
+{
+    "ID" : "hardpointdatadef_mistlynx",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_mistlynx_leftarm_laser_eh1",
+			"chrPrfWeap_mistlynx_leftarm_flamer_eh1",
+			"chrPrfWeap_mistlynx_leftarm_ppc_eh1",
+			"chrPrfWeap_mistlynx_leftarm_mg_bh1",
+			"chrPrfWeap_mistlynx_leftarm_ac10_bh1",
+			"chrPrfWeap_mistlynx_leftarm_srm4_mh1",
+			"chrPrfWeap_mistlynx_leftarm_srm6_mh1",
+			"chrPrfWeap_mistlynx_leftarm_lrm10_mh1"
+			],
+			[
+			"chrPrfWeap_mistlynx_leftarm_laser_eh2",
+			"chrPrfWeap_mistlynx_leftarm_flamer_eh2",
+			"chrPrfWeap_mistlynx_leftarm_ppc_eh2",
+			"chrPrfWeap_mistlynx_leftarm_mg_bh2",
+			"chrPrfWeap_mistlynx_leftarm_srm4_mh2",
+			"chrPrfWeap_mistlynx_leftarm_srm6_mh2",
+			"chrPrfWeap_mistlynx_leftarm_lrm10_mh2"			
+			]			
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mistlynx_lefttorso_laser_eh1",
+			"chrPrfWeap_mistlynx_lefttorso_mg_bh1",
+			"chrPrfWeap_mistlynx_lefttorso_srm6_mh1",
+			"chrPrfWeap_mistlynx_lefttorso_ac10_bh1",
+			"chrPrfWeap_mistlynx_lefttorso_flamer_eh1",
+			"chrPrfWeap_mistlynx_lefttorso_lrm10_mh1"			
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_mistlynx_rightarm_laser_eh1",
+			"chrPrfWeap_mistlynx_rightarm_flamer_eh1",
+			"chrPrfWeap_mistlynx_rightarm_ppc_eh1",
+			"chrPrfWeap_mistlynx_rightarm_mg_bh1",
+			"chrPrfWeap_mistlynx_rightarm_ac10_bh1",
+			"chrPrfWeap_mistlynx_rightarm_srm4_mh1",
+			"chrPrfWeap_mistlynx_rightarm_srm6_mh1",
+			"chrPrfWeap_mistlynx_rightarm_lrm10_mh1"
+			],
+			[
+			"chrPrfWeap_mistlynx_rightarm_laser_eh2",
+			"chrPrfWeap_mistlynx_rightarm_flamer_eh2",
+			"chrPrfWeap_mistlynx_rightarm_ppc_eh2",
+			"chrPrfWeap_mistlynx_rightarm_mg_bh2",
+			"chrPrfWeap_mistlynx_rightarm_srm4_mh2",
+			"chrPrfWeap_mistlynx_rightarm_srm6_mh2",
+			"chrPrfWeap_mistlynx_rightarm_lrm10_mh2"			
+			],
+			[
+			"chrPrfWeap_mistlynx_rightarm_mg_bh3"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mistlynx_righttorso_laser_eh1",
+			"chrPrfWeap_mistlynx_righttorso_flamer_eh1",
+			"chrPrfWeap_mistlynx_righttorso_ppc_eh1",
+			"chrPrfWeap_mistlynx_righttorso_mg_bh1",
+			"chrPrfWeap_mistlynx_righttorso_srm6_mh1",
+			"chrPrfWeap_mistlynx_righttorso_ac10_bh1"			
+			],
+			[
+			"chrPrfWeap_mistlynx_righttorso_laser_eh2",
+			"chrPrfWeap_mistlynx_righttorso_flamer_eh2"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_mistlynx_head_laser_eh1",
+			"chrPrfWeap_mistlynx_head_mg_bh1"		
+			]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mistlynx_centertorso_mg_bh1",
+			"chrPrfWeap_mistlynx_centertorso_laser_eh1",
+			"chrPrfWeap_mistlynx_centertorso_srm6_mh1"		
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
