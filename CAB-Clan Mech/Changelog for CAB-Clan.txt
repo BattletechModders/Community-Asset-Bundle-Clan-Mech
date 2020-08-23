@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+1.2
+
+Added the Vision Quest
+
 1.1
 
 Grendel/Phantom/Onager updated
