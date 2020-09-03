@@ -25,7 +25,7 @@ Medusa
 
 GentlePayload:
 License:
-xxx
+Creative Commons, Non-commercial
 
 Models:
 Hellhound
