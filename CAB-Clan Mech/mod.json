@@ -3667,6 +3667,31 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/visionquest/chrprfweap_visionquest_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_visionquestbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/visionquest/chrprfweap_visionquest_righttorso_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_visionquestbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/visionquest/chrprfweap_visionquest_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_visionquestbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/visionquest/chrprfweap_visionquest_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_visionquestbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/visionquest/chrprfweap_visionquest_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_visionquestbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gspider/chrPrfComp_gspider_simgame.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gspiderbase-001.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gspider/chrPrfComp_gspider_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gspider/chrPrfComp_gspider_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" }
     ]
 }

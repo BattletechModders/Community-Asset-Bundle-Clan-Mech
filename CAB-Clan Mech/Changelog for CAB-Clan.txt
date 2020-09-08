@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+1.3
+
+Added the Glass Spider
+
 1.2
 
 Added the Vision Quest

@@ -40,6 +40,7 @@ Phantom
 Kingfisher
 Grendel
 Locust IIC
+Glass Spider
 
 Piranha Games, Inc.
 License: 
