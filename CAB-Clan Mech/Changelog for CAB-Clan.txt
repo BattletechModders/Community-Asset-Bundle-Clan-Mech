@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+1.4
+
+Added the Scylla/Storm Giant
+
 1.3
 
 Added the Glass Spider

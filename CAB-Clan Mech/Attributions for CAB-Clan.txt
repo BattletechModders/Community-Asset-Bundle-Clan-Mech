@@ -42,6 +42,13 @@ Grendel
 Locust IIC
 Glass Spider
 
+SmallRobotsInAContainer/Napes
+License:
+Creative Commons, Attribution, Non-commercial
+
+Models:
+Scylla/Storm Giant
+
 Piranha Games, Inc.
 License: 
 Unstated but seems to effectively be Creative Commons - Non-Commercial

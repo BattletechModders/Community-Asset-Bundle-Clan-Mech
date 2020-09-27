@@ -3692,6 +3692,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gspider/chrprfweap_gspider_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gspiderbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/scylla/chrPrfComp_scylla_simgame.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_scyllabase-001.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/scylla/chrPrfComp_scylla_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/scylla/chrPrfComp_scylla_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" }
     ]
 }
