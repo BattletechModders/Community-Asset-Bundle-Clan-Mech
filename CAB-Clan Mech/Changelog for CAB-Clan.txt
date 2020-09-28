@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+1.5
+
+Added the Conjurer
+
 1.4
 
 Added the Scylla/Storm Giant

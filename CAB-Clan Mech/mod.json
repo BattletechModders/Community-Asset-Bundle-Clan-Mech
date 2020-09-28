@@ -3717,6 +3717,30 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/scylla/chrprfweap_scylla_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_scyllabase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/conjurer/chrPrfComp_conjurer_simgame.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_conjurerbase-001.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/conjurer/chrPrfComp_conjurer_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" }
     ]
 }
