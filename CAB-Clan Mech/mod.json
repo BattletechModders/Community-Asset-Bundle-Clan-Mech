@@ -3741,6 +3741,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/conjurer/chrprfweap_conjurer_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_conjurerbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/reptar/chrPrfComp_reptar_simgame.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_reptarbase-001.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/reptar/chrPrfComp_reptar_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/reptar/chrprfweap_reptar_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_reptarbase-001" }
     ]
 }

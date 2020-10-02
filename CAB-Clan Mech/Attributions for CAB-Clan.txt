@@ -49,6 +49,7 @@ Creative Commons, Attribution, Non-commercial
 Models:
 Scylla/Storm Giant
 Conjurer
+Reptar
 
 Piranha Games, Inc.
 License: 
