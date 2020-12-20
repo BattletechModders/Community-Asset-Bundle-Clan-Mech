@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+1.7 
+
+Added the Pulverizer
+
 1.6
 
 Added the Reptar
