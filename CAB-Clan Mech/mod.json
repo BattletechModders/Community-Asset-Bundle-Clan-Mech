@@ -3900,14 +3900,16 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
 		
-			{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naga/chrPrfComp_naga_simgame.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
-    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_nagabase-001.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },	
-	
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naga/chrPrfComp_naga_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
-	
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naga/chrprfweap_naga_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naga/chrPrfComp_naga_simgame.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_nagabase-001.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/naga/chrPrfComp_naga_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naga/chrprfweap_naga_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
 
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naga/chrprfweap_naga_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nagabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naga/chrprfweap_naga_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naga/chrprfweap_naga_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nagabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/naga/chrprfweap_naga_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_nagabase-001" }
 	
     ]
 }

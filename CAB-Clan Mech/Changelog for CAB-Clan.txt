@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+1.9
+
+Added the Naga
+
 1.8
 
 Added the Planet Express- I MEAN THE TURKINA
