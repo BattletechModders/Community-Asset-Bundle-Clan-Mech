@@ -1602,8 +1602,8 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionphantom/chrprfweap_ionphantom_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionphantombase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionphantom/chrprfweap_ionphantom_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionphantombase-001" },
 
+                { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_jenneriicbase-001.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/jenneriic/chrPrfComp_jenneriic_simgame.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_jenneriicbase-001.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
 
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/jenneriic/chrPrfComp_jenneriic_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
 
@@ -1655,7 +1655,6 @@
 
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jenneriic/chrPrfWeap_jenneriic_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jenneriic/chrPrfWeap_jenneriic_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jenneriic/chrPrfWeap_jenneriic_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jenneriic/chrPrfWeap_jenneriic_centertorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jenneriic/chrPrfWeap_jenneriic_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jenneriic/chrPrfWeap_jenneriic_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_jenneriicbase-001" },

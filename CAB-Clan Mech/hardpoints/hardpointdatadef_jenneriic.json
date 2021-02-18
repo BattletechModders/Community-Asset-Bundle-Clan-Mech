@@ -31,11 +31,8 @@
 			"chrPrfWeap_jenneriic_leftarm_ppc_eh3"
 			]
             ],
-            "blanks" : [
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "lefttorso",
@@ -45,12 +42,8 @@
 			"chrPrfWeap_jenneriic_lefttorso_laser_eh1"			
 			]			
 			],
-            "blanks" : [
-			
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "rightarm",
@@ -82,12 +75,8 @@
 			"chrPrfWeap_jenneriic_rightarm_ppc_eh3"
 			]
 			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "righttorso",
@@ -96,12 +85,8 @@
 			"chrPrfWeap_jenneriic_righttorso_ac20_bh1"
 			]
 			],
-            "blanks" : [
-			
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },	
 		{
             "location" : "centertorso",
@@ -109,7 +94,6 @@
 			[
 			"chrPrfWeap_jenneriic_centertorso_laser_eh1",
 			"chrPrfWeap_jenneriic_centertorso_flamer_eh1",
-			"chrPrfWeap_jenneriic_centertorso_ppc_eh1",
 			"chrPrfWeap_jenneriic_centertorso_srm4_mh1",
 			"chrPrfWeap_jenneriic_centertorso_srm6_mh1",
 			"chrPrfWeap_jenneriic_centertorso_lrm10_mh1",
@@ -123,13 +107,8 @@
 			"chrPrfWeap_jenneriic_centertorso_lrm10_mh2"
 			]
 			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         }
     ]
-	
 }
