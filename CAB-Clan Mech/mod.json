@@ -1305,10 +1305,12 @@
 
         { "Type": "Prefab", "Path": "Assets/Character/Mechs/Prefabs/chrPrfMech_hunchbackiicHotD-001.prefab", "AssetBundleName": "chrprfmech_hunchbackiichotd-001" },
 
+                { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_huntsmanbase-001.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/huntsman/chrPrfComp_huntsman_simgame.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_huntsmanbase-001.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/huntsman/chrPrfComp_huntsman_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/huntsman/chrPrfComp_huntsman_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
@@ -1327,6 +1329,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_rightarm_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_rightarm_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
@@ -1344,6 +1347,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_righttorso_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_righttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
@@ -1362,6 +1366,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_leftarm_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_leftarm_flamer_eh3.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
@@ -1370,7 +1375,6 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/huntsman/chrprfweap_huntsman_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_huntsmanbase-001" },

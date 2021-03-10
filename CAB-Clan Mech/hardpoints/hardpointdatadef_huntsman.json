@@ -46,7 +46,6 @@
                     "chrprfweap_huntsman_lefttorso_lrm10_mh1"
                 ],
                 [
-                    "chrprfweap_huntsman_lefttorso_ac10_bh2",
                     "chrprfweap_huntsman_lefttorso_ppc_eh2",
                     "chrprfweap_huntsman_lefttorso_laser_eh2",
                     "chrprfweap_huntsman_lefttorso_flamer_eh2",
@@ -114,18 +113,6 @@
                     "chrprfweap_huntsman_righttorso_lrm10_mh2"
                 ]
             ],
-            "blanks": [],
-            "mountingPoints": []
-        },
-        {
-            "location": "head",
-            "weapons": [],
-            "blanks": [],
-            "mountingPoints": []
-        },
-        {
-            "location": "centertorso",
-            "weapons": [],
             "blanks": [],
             "mountingPoints": []
         }
