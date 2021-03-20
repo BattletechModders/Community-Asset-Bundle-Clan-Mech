@@ -2062,6 +2062,9 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcat/chrPrfWeap_madcat_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madcatbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcat/chrPrfWeap_madcat_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_madcatbase-001" },
 
+         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_madcatmkiibase-001.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/madcatmkii/chrPrfComp_madcatmkii_simgame.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
+
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
@@ -2069,9 +2072,9 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
@@ -2085,6 +2088,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_leftarm_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_leftarm_ac5_bh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_leftarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
@@ -2101,6 +2105,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_lefttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
@@ -2114,6 +2119,7 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_rightarm_ac2_bh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_rightarm_ac5_bh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_rightarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
+		
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
@@ -2133,8 +2139,6 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madcatmkii/chrprfweap_madcatmkii_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/madcatmkii/chrPrfComp_madcatmkii_simgame.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_madcatmkiibase-001.prefab", "AssetBundleName": "chrprfmech_madcatmkiibase-001" },
 
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/maddog/chrPrfComp_maddog_simgame.prefab", "AssetBundleName": "chrprfmech_maddogbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_maddogbase-001.prefab", "AssetBundleName": "chrprfmech_maddogbase-001" },

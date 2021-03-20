@@ -15,16 +15,11 @@
 				[
                     "chrprfweap_madcatmkii_centertorso_lrm5_mh2",
 					"chrprfweap_madcatmkii_centertorso_srm6_mh2",
-                    "chrprfweap_madcatmkii_centertorso_lrm10_mh2",
-                    "chrprfweap_madcatmkii_centertorso_lrm15_mh2"
+                    "chrprfweap_madcatmkii_centertorso_lrm10_mh2"
                 ]
 			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "leftarm",
@@ -48,12 +43,8 @@
                 ]
 				
             ],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "lefttorso",
@@ -79,12 +70,8 @@
                     "chrprfweap_madcatmkii_lefttorso_lrm20_mh2"
                 ]
 			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "rightarm",
@@ -107,12 +94,8 @@
 					"chrprfweap_madcatmkii_rightarm_mg_bh2"
                 ]
             ],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         },
         {
             "location" : "righttorso",
@@ -142,12 +125,8 @@
                 ]
                 
 			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
+            "blanks" : [],
+            "mountingPoints" : []
         }
     ]
 }
