@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.0
+
+Added Ion's Bane
+
 1.9
 
 Added the Naga

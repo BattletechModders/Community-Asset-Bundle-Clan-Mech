@@ -1,0 +1,74 @@
+{
+    "ID" : "hardpointdatadef_ionbane",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_ionbane_leftarm_ac2_bh1",
+			"chrprfweap_ionbane_leftarm_lrm15_mh1"
+			]
+			],
+            "blanks" : [
+			"chrprfweap_ionbane_leftarm_blank_mh1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_ionbane_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_ionbane_rightarm_ac2_bh1",
+			"chrprfweap_ionbane_rightarm_lrm15_mh1"
+			]
+			],
+            "blanks" : [
+ 			"chrprfweap_ionbane_rightarm_blank_mh1"               
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_ionbane_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
