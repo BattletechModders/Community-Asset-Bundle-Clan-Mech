@@ -3975,7 +3975,10 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_rightarm_blank_mh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionbane/chrprfweap_ionbane_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionbanebase-001" }
 	
     ]
 }
