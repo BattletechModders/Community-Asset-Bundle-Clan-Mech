@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.1
+
+Added the Minsk
+
 2.0
 
 Added Ion's Bane

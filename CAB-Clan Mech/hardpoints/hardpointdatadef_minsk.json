@@ -1,0 +1,100 @@
+{
+    "ID" : "hardpointdatadef_minsk",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_minsk_leftarm_laser_eh1",
+			"chrprfweap_minsk_leftarm_ppc_eh1",	
+			"chrprfweap_minsk_leftarm_gauss_bh1"			
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_minsk_lefttorso_srm6_mh2"
+			],
+			[
+			"chrprfweap_minsk_lefttorso_lrm10_mh1"
+			],
+			[
+			"chrprfweap_minsk_lefttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_minsk_lefttorso_mg_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_minsk_rightarm_laser_eh1",
+			"chrprfweap_minsk_rightarm_ppc_eh1",
+			"chrprfweap_minsk_rightarm_gauss_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_minsk_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_minsk_righttorso_srm6_mh1"
+			],
+			[
+			"chrprfweap_minsk_righttorso_mg_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [],
+            "blanks" : [
+			],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

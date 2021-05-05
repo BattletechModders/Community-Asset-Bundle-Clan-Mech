@@ -31,6 +31,7 @@ Creative Commons, Non-commercial
 
 Models:
 Hellhound
+Minsk (with import by Transient74)
 
 Ion Raptor
 License:
