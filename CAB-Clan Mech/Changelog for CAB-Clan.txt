@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.2
+
+Added the Dark Crow
+
 2.1
 
 Added the Minsk

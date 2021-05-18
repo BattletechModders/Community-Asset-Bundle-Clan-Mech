@@ -4000,7 +4000,17 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/minsk/chrprfweap_minsk_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_minskbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/minsk/chrprfweap_minsk_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_minskbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/minsk/chrprfweap_minsk_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_minskbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/minsk/chrprfweap_minsk_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_minskbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/darkcrow/chrPrfComp_darkcrow_simgame.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_darkcrowbase-001.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/darkcrow/chrPrfComp_darkcrow_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" }
 	
     ]
 }

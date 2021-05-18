@@ -56,6 +56,10 @@ Scylla/Storm Giant
 Conjurer
 Reptar
 
+SirMortimer and Transient
+Model and Import:
+Dark Crow
+
 Piranha Games, Inc.
 License: 
 Unstated but seems to effectively be Creative Commons - Non-Commercial
