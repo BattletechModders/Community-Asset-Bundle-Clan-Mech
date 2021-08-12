@@ -4017,8 +4017,8 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/fox/chrPrfComp_fox_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
