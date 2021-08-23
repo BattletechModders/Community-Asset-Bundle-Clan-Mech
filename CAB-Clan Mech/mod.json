@@ -1855,12 +1855,18 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm4_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_lrm15_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm20_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm20_mh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm2_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_leftarm_srm20_mh2.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
 
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/linebacker/chrPrfWeap_linebacker_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_linebackerbase-001" },
@@ -4010,7 +4016,25 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/darkcrow/chrprfweap_darkcrow_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_darkcrowbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/fox/chrPrfComp_fox_simgame.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_foxbase-001.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/fox/chrPrfComp_fox_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_rightarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_leftarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_foxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/fox/chrprfweap_fox_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_foxbase-001" }
 	
     ]
 }
