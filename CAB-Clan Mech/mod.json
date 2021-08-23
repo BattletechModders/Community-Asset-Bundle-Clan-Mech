@@ -3925,7 +3925,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_rightarm_ac5_bh2.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_rightarm_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/turkina/chrprfweap_turkina_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_turkinabase-001" },
