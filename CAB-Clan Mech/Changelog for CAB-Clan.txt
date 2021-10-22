@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.4
+
+Added the Jade Phoenix (non-canon)
+
 2.3
 
 Added the Fox
