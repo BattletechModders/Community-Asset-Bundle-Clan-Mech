@@ -4057,7 +4057,17 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/shrike/chrPrfComp_shrike_simgame.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_shrikebase-001.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/shrike/chrPrfComp_shrike_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" }
 	
     ]
 }

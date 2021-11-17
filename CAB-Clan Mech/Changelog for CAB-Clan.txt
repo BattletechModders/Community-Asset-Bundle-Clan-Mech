@@ -2,9 +2,13 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.5
+
+Added the Shrike
+
 2.4
 
-Added the Jade Phoenix (non-canon)
+Added the Jade Phoenix
 
 2.3
 
