@@ -4067,7 +4067,18 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shrike/chrprfweap_shrike_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shrikebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/baboon/chrPrfComp_baboon_simgame.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_baboonbase-001.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/baboon/chrPrfComp_baboon_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" }
 	
     ]
 }
