@@ -4078,7 +4078,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/baboon/chrprfweap_baboon_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_baboonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/frostelemental/chrPrfComp_frostelemental_simgame.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_frostelementalbase-001.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/frostelemental/chrPrfComp_frostelemental_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" }
 	
     ]
 }

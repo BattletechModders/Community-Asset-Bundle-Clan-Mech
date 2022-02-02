@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.7
+
+Added the Elemental
+
 2.6
 
 Added the Howler

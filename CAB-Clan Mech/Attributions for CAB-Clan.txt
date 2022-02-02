@@ -64,6 +64,13 @@ Jade Phoenix
 Shrike
 Howler
 
+FrostRaptor
+License:
+Creative Commons, Attribution, Non-commercial
+
+Models:
+Elemental
+
 Piranha Games, Inc.
 License: 
 Unstated but seems to effectively be Creative Commons - Non-Commercial
