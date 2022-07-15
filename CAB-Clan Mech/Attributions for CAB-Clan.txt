@@ -109,6 +109,7 @@ Piranha
 Rifleman IIC
 Shadow Cat
 Stormcrow
+Summoner
 Sun Spider
 Supernova
 Vapor Eagle
