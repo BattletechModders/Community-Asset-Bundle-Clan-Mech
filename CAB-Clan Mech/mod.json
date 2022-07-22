@@ -4088,7 +4088,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/frostelemental/chrprfweap_frostelemental_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_frostelementalbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/lelimerc2/chrPrfComp_lelimerc2_simgame.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_lelimerc2base-001.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/lelimerc2/chrPrfComp_lelimerc2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" }
 	
     ]
 }
