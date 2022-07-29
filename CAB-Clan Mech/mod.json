@@ -4100,7 +4100,19 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lelimerc2/chrprfweap_lelimerc2_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lelimerc2base-001" },
+		
+			{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/flamberge/chrPrfComp_flamberge_simgame.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_flambergebase-001.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/flamberge/chrPrfComp_flamberge_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/flamberge/chrprfweap_flamberge_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/flamberge/chrprfweap_flamberge_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/flamberge/chrprfweap_flamberge_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/flamberge/chrprfweap_flamberge_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_flambergebase-001" }
 	
     ]
 }

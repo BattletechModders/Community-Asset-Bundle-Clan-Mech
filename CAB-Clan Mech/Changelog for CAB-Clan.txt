@@ -2,6 +2,9 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+2.9
+Added the Flamberge
+
 2.8
 
 Added the Mercury II
