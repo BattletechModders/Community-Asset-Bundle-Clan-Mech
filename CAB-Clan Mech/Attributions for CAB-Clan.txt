@@ -131,3 +131,10 @@ Creative Commons, Attribution, Non-commercial, no derivitives, no modifications,
 Models:
 Mercury II
 Flamberg
+
+GP, IonRapter, JuodasVarnas, Transient74
+Licence:
+Creative Commons, Attribution, Non-commercial
+
+ModersL:
+Hammerhead

@@ -2,7 +2,12 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+3.0
+
+Added the Hammerhead
+
 2.9
+
 Added the Flamberge
 
 2.8
