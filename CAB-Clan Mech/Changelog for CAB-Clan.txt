@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+3.1
+
+Added the Iron Cheetah
+
 3.0
 
 Added the Hammerhead
