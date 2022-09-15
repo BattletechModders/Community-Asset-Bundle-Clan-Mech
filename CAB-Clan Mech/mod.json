@@ -4184,7 +4184,38 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ironcheetah/chrprfweap_ironcheetah_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ironcheetahbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ironcheetah/chrprfweap_ironcheetah_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ironcheetahbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ironcheetah/chrprfweap_ironcheetah_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_ironcheetahbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ironcheetah/chrprfweap_ironcheetah_rightarm_lrm20_mh3.prefab", "AssetBundleName": "chrprfmech_ironcheetahbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ironcheetah/chrprfweap_ironcheetah_rightarm_lrm20_mh3.prefab", "AssetBundleName": "chrprfmech_ironcheetahbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/sidewinder/chrPrfComp_sidewinder_simgame.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_sidewinderbase-001.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/sidewinder/chrPrfComp_sidewinder_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/sidewinder/chrPrfComp_sidewinder_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },			
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_lefttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },			
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_righttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },	
+		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/sidewinder/chrprfweap_sidewinder_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_sidewinderbase-001" }
 	
     ]
 }
