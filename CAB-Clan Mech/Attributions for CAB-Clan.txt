@@ -1,20 +1,14 @@
 Attributions for CAB-Clan
 
-This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
 
 Colobos/Crackfoxx
-License: 
-Creative Commons, Non-commercial
-
 Models:
 Bane
 Stone Rhino
 Cougar XR
 
 Lt. Shade
-License: 
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Black Python
 Vision Quest
@@ -26,17 +20,11 @@ Medusa
 Pulverizer
 
 GentlePayload:
-License:
-Creative Commons, Non-commercial
-
 Models:
 Hellhound
 Minsk (with import by Transient74)
 
 Ion Raptor
-License:
-Creative Commons - Non-Commercial
-
 Models:
 Onager
 Phantom
@@ -48,9 +36,6 @@ Turkina
 Ion Bane
 
 SmallRobotsInAContainer/Napes
-License:
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Scylla/Storm Giant
 Conjurer
@@ -66,16 +51,10 @@ Howler
 Tiburon
 
 FrostRaptor
-License:
-Creative Commons, Attribution, Non-commercial
-
 Models:
 Elemental
 
 Piranha Games, Inc.
-License: 
-Unstated but seems to effectively be Creative Commons - Non-Commercial
-
 Models:
 Adder
 Arctic Cheetah
@@ -126,30 +105,18 @@ Naga
 
 
 Momma Leli and Transient74
-License:
-Creative Commons, Attribution, Non-commercial, no derivitives, no modifications, share alike
-
 Models:
 Mercury II
 Flamberg
 
 GP, IonRapter, JuodasVarnas, Transient74
-Licence:
-Creative Commons, Attribution, Non-commercial
-
-ModersL:
+Moders:
 Hammerhead
 
 SirMortimer, IonRapter, FrostRaptor, PGI Nico, Transient74
-Licence:
-Creative Commons, Attribution, Non-commercial
-
-ModersL:
+Moders:
 Iron Cheetah
 
 IonRapter, FrostRaptor, Transient74
-Licence:
-Creative Commons, Attribution, Non-commercial
-
-ModersL:
+Moders:
 Sidewinder
