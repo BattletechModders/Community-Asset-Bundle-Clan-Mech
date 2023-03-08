@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+3.4
+
+Added the Stag
+
 3.3
 
 Added the Tiburon

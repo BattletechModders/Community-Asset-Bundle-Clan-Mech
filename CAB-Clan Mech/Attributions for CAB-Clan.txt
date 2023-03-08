@@ -103,6 +103,9 @@ Southern Mountain
 Model:
 Naga
 
+Transient74
+Models:
+Stag
 
 Momma Leli and Transient74
 Models:

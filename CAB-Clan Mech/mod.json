@@ -4229,7 +4229,41 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/tiburon/chrprfweap_tiburon_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tiburonbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/tiburon/chrprfweap_tiburon_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tiburonbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/tiburon/chrprfweap_tiburon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tiburonbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/tiburon/chrprfweap_tiburon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_tiburonbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stag/chrPrfComp_stag_simgame.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_stagbase-001.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stag/chrPrfComp_stag_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stag/chrPrfComp_stag_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" }
 	
     ]
 }
