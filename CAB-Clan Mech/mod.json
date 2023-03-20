@@ -4053,7 +4053,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_rightarm_ac2_bh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_rightarm_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jadephoenix/chrprfweap_jadephoenix_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jadephoenixbase-001" },
 		
@@ -4246,6 +4246,7 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
+    		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_leftarm_flamer_eh1", "AssetBundleName": "chrprfmech_stagbase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
