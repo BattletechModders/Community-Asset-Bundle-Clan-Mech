@@ -123,3 +123,7 @@ Iron Cheetah
 IonRapter, FrostRaptor, Transient74
 Moders:
 Sidewinder
+
+OnlyQ, Transient
+Models:
+Omen

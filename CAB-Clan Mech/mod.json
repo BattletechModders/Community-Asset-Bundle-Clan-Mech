@@ -4264,7 +4264,20 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stag/chrprfweap_stag_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stagbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/omen/chrPrfComp_omen_simgame.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_omenbase-001.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/omen/chrPrfComp_omen_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/omen/chrprfweap_omen_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_omenbase-001" }
 	
     ]
 }

@@ -1,0 +1,58 @@
+{
+    "ID" : "hardpointdatadef_omen",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_omen_leftarm_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_omen_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_omen_rightarm_laser_eh1"
+			]
+			],
+            "blanks" : [
+			],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_omen_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        }
+    ]
+	
+}
