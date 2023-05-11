@@ -2,6 +2,10 @@ Changelog for CAB-Clan
 
 -----------------------------------------------------
 
+3.6
+
+Added the 331Stag, 331Mercury, and 311Pulverizer
+
 3.5
 
 Added the Omen 

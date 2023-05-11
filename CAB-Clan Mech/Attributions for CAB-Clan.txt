@@ -18,6 +18,7 @@ Septicemia
 Hyperion
 Medusa
 Pulverizer
+311 Pulverizer
 
 GentlePayload:
 Models:
@@ -106,10 +107,12 @@ Naga
 Transient74
 Models:
 Stag
+331 Stag
 
 Momma Leli and Transient74
 Models:
 Mercury II
+331 Mercury II
 Flamberg
 
 GP, IonRapter, JuodasVarnas, Transient74
