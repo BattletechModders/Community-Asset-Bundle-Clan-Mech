@@ -126,7 +126,6 @@
             "location" : "centertorso",
             "weapons" : [
 			[
-			"chrPrfWeap_piranha_centertorso_ppc_eh1",
 			"chrPrfWeap_piranha_centertorso_flamer_eh1",
 			"chrPrfWeap_piranha_centertorso_laser_eh1"
 			],

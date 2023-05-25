@@ -61,8 +61,7 @@
 				],
 				[
                     "chrPrfWeap_viper_leftarm_flamer_eh3",
-					"chrPrfWeap_viper_leftarm_laser_eh3",
-					"chrPrfWeap_viper_leftarm_ppc_eh3"				
+					"chrPrfWeap_viper_leftarm_laser_eh3"			
 				]
             ],
             "blanks" : [
@@ -120,8 +119,7 @@
                 ],
 				[
                     "chrPrfWeap_viper_rightarm_flamer_eh3",
-					"chrPrfWeap_viper_rightarm_laser_eh3",
-					"chrPrfWeap_viper_rightarm_ppc_eh3"				    
+					"chrPrfWeap_viper_rightarm_laser_eh3"		    
                 ]
 
             ],
