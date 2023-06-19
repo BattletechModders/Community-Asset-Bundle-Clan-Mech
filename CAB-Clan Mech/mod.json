@@ -4281,6 +4281,7 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331stag/chrprfweap_331stag_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331stagbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331stag/chrprfweap_331stag_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_331stagbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331stag/chrprfweap_331stag_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_331stagbase-001" },
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331stag/chrprfweap_331stag_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331stagbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331stag/chrprfweap_331stag_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_331stagbase-001" },
